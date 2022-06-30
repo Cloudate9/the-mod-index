@@ -1,0 +1,45 @@
+{
+  "indexVersion": "4.1.0",
+  "genericIdentifier": "fabric:modget",
+  "fancyName": "Modget",
+  "author": "NebelNidas",
+  "license": "lgpl-3",
+  "curseForgeId": 533960,
+  "modrinthId": "2NpFE0R3",
+  "links": {
+    "issue": "https://github.com/ReviversMC/modget/issues",
+    "sourceControl": "https://github.com/ReviversMC/modget",
+    "others": [
+      {
+        "linkName": "discord",
+        "url": "https://discord.gg/6bTGYFppfz"
+      },
+      {
+        "linkName": "wiki",
+        "url": "https://github.com/ReviversMC/modget/blob/master/README.md"
+      },
+      {
+        "linkName": "website",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/modget"
+      }
+    ]
+  },
+  "files": [
+    {
+      "fileName": "Modget 0.4.3 for 1.17+",
+      "mcVersions": [
+        "1.18.2",
+        "1.18.1",
+        "1.18",
+        "1.17.1",
+        "1.17"
+      ],
+      "sha512Hash": "a67cd29fd6b8bbc8a73d12c818ab72626cf49514e492e87a5636e8a83d7dbaf3ff12fb3d081f76c045c60f67f189080d6e0a14cada4d3c7b680180d887a36909",
+      "downloadUrls": [
+        "https://cdn.modrinth.com/data/2NpFE0R3/versions/0.4.3+1.17/modget-minecraft-0.4.3+1.17.jar",
+        "https://github.com/ReviversMC/modget-minecraft/releases/download/0.4.3/modget-minecraft-0.4.3%2B1.17.jar"
+      ],
+      "curseDownloadAvailable": true
+    }
+  ]
+}

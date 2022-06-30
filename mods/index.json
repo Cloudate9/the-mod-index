@@ -1,5 +1,7 @@
 {
   "indexVersion": "4.1.0",
-  "identifiers": [],
+  "identifiers": [
+    "fabric:modget:a67cd29fd6b8bbc8a73d12c818ab72626cf49514e492e87a5636e8a83d7dbaf3ff12fb3d081f76c045c60f67f189080d6e0a14cada4d3c7b680180d887a36909"
+  ],
   "eolEpochTime": null
 }
